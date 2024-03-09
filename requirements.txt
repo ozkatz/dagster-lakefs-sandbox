@@ -1,0 +1,5 @@
+dagster==1.6.8
+pandas==2.2.1
+pyarrow==15.0.0
+lakefs==0.4.1
+s3fs==2024.2.0

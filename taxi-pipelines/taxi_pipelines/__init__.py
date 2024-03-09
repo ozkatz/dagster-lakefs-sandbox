@@ -5,7 +5,6 @@ import lakefs
 import pandas as pd
 
 DAGSTER_RUNS_URL = 'http://127.0.0.1:3000/runs'
-EXTERNAL_INPUT_SOURCE = 'nyc_taxi.parquet'
 
 class RawConfig(Config):
     raw_path_uri: str
